@@ -1,4 +1,4 @@
-# [![cmuench header](https://raw.githubusercontent.com/cmuench/cmuench/main/images/gh-bannner-dark.png)](https://muench.dev)
+# [![cmuench header](https://raw.githubusercontent.com/cmuench/cmuench/master/images/gh-banner-dark.png)](https://muench.dev)
 ### Hi there 👋
 
 <!--
