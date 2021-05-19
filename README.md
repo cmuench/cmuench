@@ -8,7 +8,8 @@
 - 🤝 Meet me at [PHPUG Rheinhessen](https://www.meetup.com/de-DE/PHP-User-Group-Rheinhessen/), [Magento Meetup Rhein-Main](https://magerm.de/), [Linux Stammtisch Worms](https://wolust.de/)
 - 💬 Ask me about Linux, PHP, Magento, Continuous Integration
 - 📫 How to reach me: [@cmuench on Twitter](https://twitter.com/cmuench)
-- 😄 Pronouns: Münch -> mʏnç
+- 😄 Pronouns: Münch -> mʏnç  / he/him/his
+- 👔 [netz98 a valantic company](https://netz98.de) / [valantic](https://www.valantic.com)
 - 🌐 [muench.dev](https://muench.dev)
 - ⚽ [Wormatia Worms 🐉](https://www.wormatia.de)
 <!-- - ⚡ Fun fact: ... -->
