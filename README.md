@@ -12,4 +12,5 @@
 - 👔 [netz98 a valantic company](https://netz98.de) / [valantic](https://www.valantic.com)
 - 🌐 [muench.dev](https://muench.dev)
 - ⚽ [Wormatia Worms 🐉](https://www.wormatia.de)
+- [Mastodon](https://phpc.social/@cmuench)
 <!-- - ⚡ Fun fact: ... -->
