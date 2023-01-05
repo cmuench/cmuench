@@ -14,3 +14,5 @@
 - ⚽ [Wormatia Worms 🐉](https://www.wormatia.de)
 - <a rel="me" href="https://phpc.social/@cmuench">Mastodon</a>
 <!-- - ⚡ Fun fact: ... -->
+
+![My Github Statistics](https://github-readme-stats.vercel.app/api?username=cmuench&show_icons=true&include_all_commits=true&theme=tokyonight)
